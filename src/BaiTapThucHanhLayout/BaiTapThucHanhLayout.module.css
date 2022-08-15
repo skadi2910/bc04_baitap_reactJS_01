@@ -1,0 +1,13 @@
+.feature {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 4rem;
+  width: 4rem;
+  font-size: 2rem;
+  transform: translateY(-30%);
+  cursor: pointer;
+}
+.mt-n4 {
+  margin-top: -1.5rem !important;
+}
